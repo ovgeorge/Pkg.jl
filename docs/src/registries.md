@@ -1,3 +1,3 @@
 # **7.** Registries
 
-TODD: Write about stuff
+TODO: Write about stuff
